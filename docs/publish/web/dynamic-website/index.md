@@ -3,6 +3,8 @@ title: Host app as a dynamic website
 sidebar_label: Dynamic website
 slug: /publish/web/dynamic-website
 ---
+IMPORTANT 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+please provide a clear example of how the fastAPi and flet ui will work together. they both gonna share same folder or not. most important where should i place this code in my app directory. 
 
 ## Introduction
 
